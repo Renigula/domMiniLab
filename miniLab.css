@@ -1,0 +1,20 @@
+
+*{
+    border-radius: 50px;
+}
+h1{
+    background-color: pink;
+    height: 100px;
+    width: 100px;
+    border: solid;
+}
+button{
+    height: 100px;
+    width: 100px;
+    background-color: lightpink;
+    color: seagreen;
+}
+button:nth-child(2){
+    background-color: lightblue;
+    color: black;
+}
